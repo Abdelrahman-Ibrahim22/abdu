@@ -1,0 +1,1 @@
+This project calculates the duration of a course in hours when the user enters the duration in seconds. This project is intended to serve as a beginner-level exercise, offering an entry point for individuals seeking to expand their skill using Python. 
