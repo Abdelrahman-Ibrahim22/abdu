@@ -10,6 +10,6 @@ minutes = remaining_seconds_after_hours // 60  # Convert the remaining seconds i
 seconds = remaining_seconds_after_hours % 60  # Remaining seconds after calculating minutes
 
 print("This course is " + str(hours) + " hours, " + str(minutes) + " minutes, and " + str(seconds) + " seconds")
-
+print ("I can use Git in WSL")
 
   
